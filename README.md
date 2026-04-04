@@ -47,7 +47,7 @@ Concentrations: Organizational Leadership | Computing Applications | General Bus
 
 ---
 
-*Always learning. Always building.*#
+*Always learning. Always building.*
 
 <!--
 **IGRGT/IGRGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
