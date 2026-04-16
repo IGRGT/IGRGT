@@ -1,7 +1,7 @@
 # Hi, I'm Gilberto Ruiz 👋
 
 📍 Dallas, TX  
-📧 gilberto.ruiz.garcia0020109@gmail.com  
+📧 gilruiz.tech@gmail.com  
 🔗 https://www.linkedin.com/in/gilberto-r-475067355/
 
 ---
