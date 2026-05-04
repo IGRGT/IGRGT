@@ -36,7 +36,9 @@ of technology and business.
 
 | Project | Description |
 |---|---|
-| [CRM Workflow Documentation](https://github.com/IGRGT/crm-workflow-documentation) | End-to-end CRM process documentation based on dealership operations |
+| [decay-graph-crm](https://github.com/IGRGT/decay-graph-crm) | Local-first CRM in Python and SQLite that tracks which contacts have gone stale |
+| [logos](https://github.com/IGRGT/logos) | Markdown template set for personal AI assistants that remember context across conversations |
+| [crm-workflow-documentation](https://github.com/IGRGT/crm-workflow-documentation) | End-to-end CRM process documentation based on dealership operations |
 
 ---
 
