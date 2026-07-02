@@ -1,34 +1,18 @@
-# Hi, I'm Gilberto Ruiz 👋
+# Gilberto Ruiz
 
-📍 Dallas, TX  
-📧 gilruiz.tech@gmail.com  
-🔗 https://www.linkedin.com/in/gilberto-r-475067355/
-
----
-
-## About Me
-
-Recent college graduate from Texas Tech University with a background in
-customer service, CRM systems, data documentation, and organizational
-leadership. Bilingual in English and Spanish. Actively seeking entry-level
-roles in IT support, business analysis, and administrative operations
-in the Dallas area.
-
-I have a long-standing interest in technology and AI. I was writing about
-artificial intelligence and its business implications in college before it
-became mainstream. Now I am building toward a career at the intersection
-of technology and business.
+📍 Brownsville, TX
+📧 gilruiz.tech@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/gilberto-r-475067355/)
 
 ---
 
-## What I Bring
+## Right now
 
-- High-volume customer support and phone-based troubleshooting
-- CRM management and data accuracy (CDK Global, Salesforce familiarity)
-- Process documentation and workflow analysis
-- Cross-functional communication and team collaboration
-- Microsoft Office 365 (Excel, Word, Outlook, Teams)
-- Bilingual: English & Spanish
+Starting MS in Informatics & Cybersecurity at UTRGV, Fall 2026.
+Registered for CYBI 6304 and CYBI 6378. CompTIA A+ in progress.
+
+Spending the summer learning Python from scratch and building things —
+functions, data structures, real projects.
 
 ---
 
@@ -36,17 +20,18 @@ of technology and business.
 
 | Project | Description |
 |---|---|
-| [decay-graph-crm](https://github.com/IGRGT/decay-graph-crm) | Local-first CRM in Python and SQLite that tracks which contacts have gone stale |
-| [logos](https://github.com/IGRGT/logos) | Markdown template set for personal AI assistants that remember context across conversations |
-| [crm-workflow-documentation](https://github.com/IGRGT/crm-workflow-documentation) | End-to-end CRM process documentation based on dealership operations |
+| [drillforge](https://github.com/IGRGT/drillforge) | CompTIA A+ V15 PBQ simulator — React + Vite, 200+ scenarios, spaced-repetition scoring |
+| [decay-graph-crm](https://github.com/IGRGT/decay-graph-crm) | Local-first CRM in Python + SQLite that surfaces stale contacts |
+| [crm-workflow-documentation](https://github.com/IGRGT/crm-workflow-documentation) | CRM process docs from hands-on dealership operations with CDK Global |
 
 ---
 
-## Education
+## Background
 
-🎓 Bachelor of Arts in University Studies, Texas Tech University, December 2024  
-Concentrations: Organizational Leadership | Computing Applications | General Business
+B.U.S. from Texas Tech, December 2024 — Organizational Leadership,
+Computing Applications, General Business. Self-taught IT since 2018.
+Bilingual: English and Spanish.
 
 ---
 
-*Always learning. Always building.*
+*Building in public. Starting from scratch and not hiding it.*
